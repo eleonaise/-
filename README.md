@@ -1,1 +1,2 @@
 # wagner
+* @license MIT
